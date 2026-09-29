@@ -1,5 +1,7 @@
 # Suyog Suryawanshi — Portfolio
 
+Frontend Developer with 4+ years of experience building modern, responsive, and user-friendly web applications.
+
 A single-page React portfolio built with Vite. Plain CSS, no UI framework,
 so there's nothing extra to learn to edit it.
 
