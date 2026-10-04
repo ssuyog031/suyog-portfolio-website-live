@@ -735,6 +735,8 @@ fieldset:disabled {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  gap: 0.75rem 1.5rem;
+  flex-wrap: wrap;
   padding: 1.1rem 0;
   font-size: 0.87rem;
   color: var(--ink-faint);
@@ -743,6 +745,20 @@ fieldset:disabled {
 
 .footer-inner span:last-child {
   font-family: var(--font-mono);
+}
+
+.footer-visits {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.45rem;
+}
+
+.footer-visits strong {
+  color: var(--ink-soft);
+  font-family: var(--font-mono);
+  font-size: 0.82rem;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
 }
 
 /* ==================================================================

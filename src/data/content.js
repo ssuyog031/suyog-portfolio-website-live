@@ -7,7 +7,7 @@
 export const profile = {
   name: "Suyog Suryawanshi",
   role: "Frontend Developer",
-  location: "Pune, India",
+  location: "Pune, Maharashtra, India",
   email: "suyogss031@gmail.com",
   phone: "+91 78419 34373",
   linkedinHandle: "suyog-suryawanshi",
@@ -26,7 +26,7 @@ export const nav = [
 ];
 
 export const hero = {
-  eyebrow: "Frontend Developer — Pune, India",
+  eyebrow: "Frontend Developer — Pune, Maharashtra, India",
   headline: "I build interfaces that hold up under real usage.",
   subtext:
     "4+ years designing and shipping React.js applications that stay fast and clear even at national scale — clean UI, solid accessibility, and frontend architecture that's easy to maintain.",
