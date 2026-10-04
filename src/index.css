@@ -749,16 +749,14 @@ fieldset:disabled {
 
 .footer-visits {
   display: inline-flex;
-  align-items: baseline;
-  gap: 0.45rem;
+  align-items: center;
+  min-height: 20px;
 }
 
-.footer-visits strong {
-  color: var(--ink-soft);
-  font-family: var(--font-mono);
-  font-size: 0.82rem;
-  font-weight: 600;
-  font-variant-numeric: tabular-nums;
+.footer-visits img {
+  display: block;
+  width: auto;
+  height: 20px;
 }
 
 /* ==================================================================
